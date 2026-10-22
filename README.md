@@ -25,6 +25,6 @@ I am a beginner Software QA Tester learning manual testing, test case design, an
 - GitHub
 - Microsoft Excel
 - Google Chrome
-
+https://roadmap.sh/projects/e2e-test-ecommerce-app
 ## My Goal
 To develop practical software testing skills and build a portfolio for entry-level QA opportunities.
